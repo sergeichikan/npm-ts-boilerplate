@@ -1,0 +1,14 @@
+{
+  "name": "npm-ts-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "types": "dec/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "github:sergeichikan/npm-ts-boilerplate",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
