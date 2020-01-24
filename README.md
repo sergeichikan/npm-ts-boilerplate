@@ -4,7 +4,7 @@ npm-ts-boilerplate
 
 ## Installation
 
-npm install npm-ts-boilerplate
+`npm install npm-ts-boilerplate`
 
 ## Usage
 
