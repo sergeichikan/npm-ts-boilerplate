@@ -1,14 +1,13 @@
 {
   "compilerOptions": {
-    "target": "es2019",
-    "module": "commonjs",
+    "target": "ES2020",
+    "module": "CommonJS",
     "declaration": true,
     "declarationMap": false,
     "sourceMap": false,
-    "outDir": "lib",
     "rootDir": "src",
 
-    "moduleResolution": "node",
+    "moduleResolution": "Node",
 
     "strict": true,
     "alwaysStrict": true,
@@ -19,11 +18,6 @@
     "noFallthroughCasesInSwitch": true,
 
     "forceConsistentCasingInFileNames": true,
-    "noStrictGenericChecks": true,
-
-    "declarationDir": "dec"
-  },
-  "include": [
-    "src/"
-  ]
+    "noStrictGenericChecks": true
+  }
 }
