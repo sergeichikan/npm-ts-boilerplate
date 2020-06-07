@@ -10,5 +10,9 @@
   "repository": "github:sergeichikan/npm-ts-boilerplate",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "files": [
+    "src/**/*.js",
+    "src/**/*.d.ts"
+  ]
 }
