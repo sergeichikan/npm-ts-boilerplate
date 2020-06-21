@@ -19,5 +19,8 @@
 
     "forceConsistentCasingInFileNames": true,
     "noStrictGenericChecks": true
-  }
+  },
+  "include": [
+    "src"
+  ]
 }
